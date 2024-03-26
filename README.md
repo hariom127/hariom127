@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)](https://github.com/hariom127/hariom127)
 <h1 align="center">Hi 👋, I'm Hariom Nagar</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
-<img align="right" alt="Img" width="400" src="https://user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif" />
+<img align="right" alt="Img" height="350" width="350" src="https://user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hariom127&label=Profile%20views&color=0e75b6&style=flat" alt="hariom127" /> </p>
 
